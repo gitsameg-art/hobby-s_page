@@ -24,7 +24,7 @@ let complemento_titulo = 'Apresentação - ';
 let estado_aba_indice = false;
 
 // O que vai aparecer no texto e titulo de apresentação
-let indice = 2;
+let indice = 0;
 let text_poster = [
     {
         "titulo": "Introdução",
