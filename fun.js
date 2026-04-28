@@ -28,7 +28,7 @@ let indice = 2;
 let text_poster = [
     {
         "titulo": "Introdução",
-        "img-fundo": "/img/fundo/intro2.jpg",
+        "img-fundo": "/img/fundo/intro.jpg",
         "img-icon":"/img/icone/intro.png",
         "texto": 
         `
