@@ -71,8 +71,8 @@ let text_poster = [
         e saiu todo bugado, e ainda mais a Unity é muito pesada para o computador que eu usava, pois, demorava muito para abrir um simples projeto vazio.
         Ai depois de uns anos eu instalei na minha máquina o Godot para aprender a usar, mas não consegui por conta do tempo.
         
-        #t-Criando jogos só na programação-t#
-        #i-img/code-img/code.jpg alt="imagem do codigo do jogo"-i# 
+        #t-Criando jogos só no código-t#
+        #i- img/code-img/code.jpg alt="imagem do codigo do jogo"-i# 
         Quando vi que dava para fazer um jogo só programando eu tentei fazer o meu, eu já usei game engines, mas ainda queria 
         aprender a programar e não ficar tão dependente de funções da propria engine. E meu primeiro contanto com bibliotecas de
         jogos foi no meu ensino médio que também era técnico em informática no meu primeiro ano, eu já tava aprendendo a programar e tava mais avançado
