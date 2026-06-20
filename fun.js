@@ -28,7 +28,7 @@ let indice = 0;
 let text_poster = [
     {
         "titulo": "Introdução",
-        "img-fundo": "img/fundo/intro.jpg",
+        "img-fundo": "img/fundo/intro.webp",
         "img-icon":"img/icone/intro.png",
         "texto": 
         `
@@ -46,7 +46,7 @@ let text_poster = [
     },
     {
         "titulo": "Criando jogos",
-        "img-fundo": "img/fundo/criando_jogos.jpg",
+        "img-fundo": "img/fundo/criando_jogos.webp",
         "img-icon":"img/icone/program.png",
         "texto": 
         `
@@ -57,7 +57,7 @@ let text_poster = [
         programação e arte me faziam ter mais vontade de começar a criar meus proprios projetos.
         
         #t-Criando jogos sem programação-t#
-        #i-img/code-img/progam_visual.jpg alt="imagem do codigo do jogo"-i# 
+        #i-img/code-img/progam_visual.webp alt="imagem do codigo do jogo"-i# 
         Antes de começar a programar de fato, eu tinha já estava criando meus jogos em game engines que não precisavam de programação
         para criar um jogo. Mas tinha um porém, eu não tinha um computador só meu, então busquei alternativas que consegui-se fazer algo,
         e encontrei o Pocket Code, onde você bate cabeça programando com blocos visuais parecido com o scratch. O problema era que eu não finalizava
@@ -65,14 +65,14 @@ let text_poster = [
         de programação mesmo que levemente, entendo como funciona a logica e estrutura de algoritmo.
         
         #t-Criando jogos com game engines-t#
-        #i-img/code-img/engines.png alt="imagem do codigo do jogo"-i# 
+        #i-img/code-img/engines.webp alt="imagem do codigo do jogo"-i# 
         Eu já criei jogos em game engines, minha primeira vez mexendo com codigos foi usando a Unity com C#.
         eu não sabia de nada o que era uma variavel, um if e else, uma função, nada não sabia de nada. Só tentei copia o codigo de um tutorial do Youtube
         e saiu todo bugado, e ainda mais a Unity é muito pesada para o computador que eu usava, pois, demorava muito para abrir um simples projeto vazio.
         Ai depois de uns anos eu instalei na minha máquina o Godot para aprender a usar, mas não consegui por conta do tempo.
         
         #t-Criando jogos só no código-t#
-        #i- img/code-img/code.jpg alt="imagem do codigo do jogo"-i# 
+        #i-img/code-img/code.webp alt="imagem do codigo do jogo"-i# 
         Quando vi que dava para fazer um jogo só programando eu tentei fazer o meu, eu já usei game engines, mas ainda queria 
         aprender a programar e não ficar tão dependente de funções da propria engine. E meu primeiro contanto com bibliotecas de
         jogos foi no meu ensino médio que também era técnico em informática no meu primeiro ano, eu já tava aprendendo a programar e tava mais avançado
@@ -85,7 +85,7 @@ let text_poster = [
     },
     {
         "titulo": "Animação",
-        "img-fundo": "img/fundo/animation.jpg",
+        "img-fundo": "img/fundo/animation.webp",
         "img-icon":"img/icone/anima.png",
         "texto": 
         `
